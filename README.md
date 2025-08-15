@@ -17,7 +17,7 @@ Siga os passos abaixo para clonar o repositório e executar o projeto na sua má
     ```sh
     git clone https://github.com/DanielCastrs/conta_bancaria
   
-    cd nome-do-repositorio
+    cd conta_bancaria
     ```
     
 
